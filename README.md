@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm Mayank Aggarwal,<br>A BCA student passionate about building meaningful tech solutions. I enjoy working on full-stack development, mobile applications, and UI/UX design. I love participating in hackathons, organizing tech workshops, and turning ideas into real-world projects.<br><br>🔭 I’m currently working on: FastMedico – a healthcare-focused application<br>👯 I’m looking to collaborate on: Web & mobile app projects, hackathons, and open-source<br>🌱 I’m currently learning: Flutter, Firebase, and advanced backend development<br>💬 Ask me about: Web development, UI/UX (Figma), Java, and Python<br>⚡ Fun fact: I enjoy leading tech communities and building projects that solve real problems 🚀
+# Hi! I'm Mayank Aggarwal
+A BCA student passionate about building meaningful tech solutions. I enjoy working on full-stack development, mobile applications, and UI/UX design. I love participating in hackathons, organizing tech workshops, and turning ideas into real-world projects.<br><br>🔭 I’m currently working on: FastMedico – a healthcare-focused application<br>👯 I’m looking to collaborate on: Web & mobile app projects, hackathons, and open-source<br>🌱 I’m currently learning: Flutter, Firebase, and advanced backend development<br>💬 Ask me about: Web development, UI/UX (Figma), Java, and Python<br>⚡ Fun fact: I enjoy leading tech communities and building projects that solve real problems 🚀
 
 
 ## 🌐 Socials:
